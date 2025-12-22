@@ -17,7 +17,7 @@
 
 
 ## Réalisé par
-- **Mehdy Bentaleb**
+- **Mehdi Bentaleb**
 
 ---
 ## Encadré par
