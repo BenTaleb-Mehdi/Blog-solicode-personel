@@ -14,7 +14,12 @@
 - Trait
 
 ---
+## Compte Rendu : 
+# Hamouda (Admin)
+- Admin can create articles
+- vedio/image upload
 
+---
 
 ## Réalisé par
 - **Mehdi Bentaleb**
