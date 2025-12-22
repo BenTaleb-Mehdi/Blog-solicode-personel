@@ -23,6 +23,12 @@
 
 ---
 
+## Labs
+- Trait
+
+---
+
+
 ## Réalisé par
 - **Mehdy Bentaleb**
 
