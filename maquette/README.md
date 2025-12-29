@@ -19,14 +19,6 @@ Ce document présente les recommandations du l'admin Hamouda suite à la validat
     - Gérer les articles
     - Participer à la modération et à la supervision du contenu
 
-###  Gamification et motivation
-- Mettre en place une **compétition interne** :
-  - Meilleur article
-  - Meilleur auteur
-- Objectifs :
-  - Encourager la participation des stagiaires
-  - Améliorer la qualité des articles
-  - Valoriser les auteurs les plus actifs
 
 ###  Médias
 - Prévoir la possibilité de :
