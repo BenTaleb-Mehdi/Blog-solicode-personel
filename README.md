@@ -67,14 +67,14 @@ Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se con
 
 # Méthodologies
  Méthodologie ( SCRUM )
-![w:800 usecase](imgs-presenatation/SCRUM.JPG)
+![w:800 SCRUM](imgs-presenatation/SCRUM.JPG)
 
 ---
 
 
 # Méthodologies
  Méthodologie ( design Thinking )
-![w:800 usecase](imgs-presenatation/designThinking.jpg)
+![w:800 design Thinking](imgs-presenatation/designThinking.jpg)
 
 ---
 
