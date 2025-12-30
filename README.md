@@ -131,6 +131,11 @@ Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se con
 - Gestion des **catégories**
 - Ajout de graphiques et statistiques avancées pour l’Admin
 
+---
+
+# Validation des maquettes UI avec
+### Formateur :  Hamouda Abde Mouneim (Admin)
+
 
 
 
